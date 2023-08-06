@@ -11,7 +11,7 @@ Welcome to the Web Design Agency Landing Page! This landing page is designed to 
 2.[Home](#home)
 3.[About](#about)
 4.[Info](#info)
-5. [Services](#services)
+5.[Services](#services)
 6. [Contact Us](#contact-us)
 
 ## Introduction
