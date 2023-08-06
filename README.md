@@ -6,13 +6,13 @@
 Welcome to the Web Design Agency Landing Page! This landing page is designed to showcase our web design services and expertise. Here, you'll find information about our agency, our services, and how to get in touch with us.
 
 ## Table of Contents
+1.[Introduction](#introduction ) 		 
+2.[Home](#home )		
+3.[About](#about )
+4.[Info](#info )
+5.[Services](#services )
+6.[Contact](#contact )
 
-1. [Introduction](#introduction)
-2.[Home](#home)
-3.[About](#about)
-4.[Info](#info)
-5.[Services](#services)
-6. [Contact Us](#contact-us)
 
 ## Introduction
 
@@ -26,7 +26,7 @@ We make unique websites fulfilling the requirements of our clients.
 In today's mobile-driven world, having a responsive website is crucial. We ensure that your website looks and performs flawlessly across all devices, from smartphones to large desktop screens.
 
 
-## Contact Us
+## Contact 
 
 Ready to get started on your next web project? Reach out to us via the contact form on our [Contact] page. We're excited to collaborate with you and turn your vision into reality.
 
