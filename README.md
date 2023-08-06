@@ -35,7 +35,7 @@ Ready to get started on your next web project? Reach out to us via the contact f
 ## Credits
 
 - Icons: [Font Awesome](https://fontawesome.com/)
--Fonts: [Google Fonts](https://fonts.google.com/)
+- Fonts: [Google Fonts](https://fonts.google.com/)
 ## License
 
 This project is licensed under the [MIT License](LICENSE).
